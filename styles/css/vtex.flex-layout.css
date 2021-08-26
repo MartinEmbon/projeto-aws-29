@@ -5,17 +5,8 @@
     width: 100%;
     height: 70px;
     padding: 10px 20px 0 20px;
-    justify-content: space-between;    
-}
-
-.flexRow--row-principal,
-.flexRow--row-menu{
-    background-color: #232F3E;
-}
-
-.flexRow--row-menu{    
-    padding-left: 20px;
-    height: 30px;
+    justify-content: space-between;  
+    background-color: #232F3E;  
 }
 
 /*
@@ -25,3 +16,4 @@
     display: flex;
     justify-content: center;
 }
+

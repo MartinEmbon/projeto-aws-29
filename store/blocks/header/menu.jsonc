@@ -1,12 +1,4 @@
 {
-    "flex-layout.row#menu": { //Tab Produtos | Soluções | Sobre
-        "props": {
-            "blockClass": "row-menu"
-        },
-        "children": [
-            "vtex.menu@2.x:menu#menu-principal"
-        ]
-    },
     "vtex.menu@2.x:menu#menu-principal": {
         "props":{
             "blockClass": "menu-principal"            

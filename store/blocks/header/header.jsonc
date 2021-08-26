@@ -22,7 +22,7 @@
     },
     "children": [
       "flex-layout.row#desktop",
-      "flex-layout.row#menu"    
+      "vtex.menu@2.x:menu#menu-principal"    
     ]
   },
   "flex-layout.row#desktop": {

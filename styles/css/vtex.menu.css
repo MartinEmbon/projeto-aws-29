@@ -2,14 +2,14 @@
     Home
 */
 .menuContainerNav--menu-principal{
-    margin: 0;
-    
+    background-color: #232F3E;
 }
 
 .menuContainer--menu-principal{    
     height: 25px;
-    padding-bottom: 20px;   
-    justify-content: center;
+    padding: 0 0 20px 20px;
+    justify-content: flex-start;
+    
 }
 
 .menuItem--item-menu .styledLinkContent{
