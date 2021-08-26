@@ -1,0 +1,21 @@
+/*
+    Home
+*/
+.menuContainerNav--menu-principal{
+    margin: 0;
+    
+}
+
+.menuContainer--menu-principal{    
+    height: 25px;
+    padding-bottom: 20px;   
+    justify-content: center;
+}
+
+.menuItem--item-menu .styledLinkContent{
+    color: #ddd;
+}
+
+.styledLinkContainer--item-menu{
+    padding: 0;
+}

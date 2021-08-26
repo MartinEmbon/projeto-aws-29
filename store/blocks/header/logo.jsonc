@@ -1,0 +1,10 @@
+{
+    "logo": {
+        "props": {
+          "title": "Logo",
+          "href": "/",
+          "url": "https://a0.awsstatic.com/libra-css/images/logos/aws_smile-header-desktop-en-white_59x35.png",
+          "width": "60"
+        }
+      }
+}

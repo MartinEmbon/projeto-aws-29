@@ -1,0 +1,67 @@
+{
+    "flex-layout.row#menu": { //Tab Produtos | Soluções | Sobre
+        "props": {
+            "blockClass": "row-menu"
+        },
+        "children": [
+            "vtex.menu@2.x:menu#menu-principal"
+        ]
+    },
+    "vtex.menu@2.x:menu#menu-principal": {
+        "props":{
+            "blockClass": "menu-principal"            
+        },
+        "children": [
+            "menu-item#produtos",
+            "menu-item#solucoes",
+            "menu-item#sobre"
+        ]
+    },
+
+    //Itens
+    "menu-item#produtos": {
+        "props": {
+            "id": "menu-item-produtos",
+            "type": "custom",
+            "highlight": false,
+            "blockClass": "item-menu",
+            "itemProps": {
+              "type": "internal",
+              "href": "#",
+              "noFollow": false,
+              "tagTitle": "menu-produtos",
+              "text": "Produtos"
+            }
+          }
+    },
+    "menu-item#solucoes": {
+        "props": {
+            "id": "menu-item-solucoes",
+            "type": "custom",
+            "highlight": false,
+            "blockClass": "item-menu",
+            "itemProps": {
+              "type": "internal",
+              "href": "#",
+              "noFollow": false,
+              "tagTitle": "menu-solucoes",
+              "text": "Soluções"
+            }
+          }
+    },
+    "menu-item#sobre": {
+        "props": {
+            "id": "menu-item-produtos",
+            "type": "custom",
+            "highlight": false,
+            "blockClass": "item-menu",
+            "itemProps": {
+              "type": "internal",
+              "href": "#",
+              "noFollow": false,
+              "tagTitle": "menu-sobre",
+              "text": "Sobre"
+            }
+          }
+    }
+}

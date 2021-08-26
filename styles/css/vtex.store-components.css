@@ -1,0 +1,27 @@
+/*
+    Header
+*/
+.searchBarContainer{
+    height: 30px;
+    margin-right: 10px;
+}
+
+.searchBarIcon{
+    padding: 11px 5px;   
+    background-color: #E76D0C;
+    color: white;
+    position: absolute;
+    top: 0;
+    right: 0px;
+    border-radius: 2px;
+}
+.searchBarIcon:hover{
+    background-color: #D1640A;
+}
+
+/*
+    Home
+*/
+.imageElement{
+    width: 800px;
+}

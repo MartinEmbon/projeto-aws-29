@@ -1,0 +1,11 @@
+/*
+    Home
+*/
+.container--rich-solucoes{
+    justify-content: center;
+}
+
+.wrapper--rich-solucoes .paragraph{
+    font-size: 60px;
+    color: #232f3e;
+}
