@@ -11,8 +11,8 @@
     "children": [
       "flex-layout.col#left",
       "flex-layout.col#right",
-      "product-questions-and-answers",
-      "product-assembly-options"
+      "product-questions-and-answers"
+      //"product-assembly-options"
     ]
   },
   "flex-layout.col#left": {
@@ -29,10 +29,10 @@
       "product-description",
       "product-identifier.product"
     ]
-  },
-  "product-assembly-options": {
-    "children": [
-      "assembly-option-input-values"
-    ]
   }
+ // "product-assembly-options": {
+   // "children": [
+     // "assembly-option-input-values"
+    //]
+  //}
 }

@@ -1,9 +1,12 @@
 {
   "store.home": {
     "blocks": [
+      
       "flex-layout.row#row-slider-principal",
+      "leadInput",
       "rich-text#rich-solucoes",
-      "flex-layout.row#row-produtos"      
+      "flex-layout.row#row-produtos"
+      
     ]
   },
   "flex-layout.row#row-slider-principal": {
