@@ -1,15 +1,34 @@
 {
-  "store.home": { 
+  "store.home": {
     "blocks": [
-      "rich-text"
+      
+      "flex-layout.row#row-slider-principal",
+      "leadInput",
+      "rich-text#rich-solucoes",
+      "flex-layout.row#row-produtos"
+      
     ]
   },
-  "rich-text": { 
-    "props": { 
-      "text": "VTEX Store Framework",
-      "textAlignment": "CENTER",
-      "textPosition": "CENTER",
-      "font": "t-heading-1"
-    }
+  "flex-layout.row#row-slider-principal": {
+    "props": {
+      "blockClass": "row-slider-principal"
+    },
+    "children": [
+      "slider-layout#slider-itens-promocao"
+    ]
+  },
+  "flex-layout.row#row-produtos":{
+    "props":{
+      "colSizing": "auto",
+      "blockClass": "row-produtos"
+    },
+    "children":[      
+      "rich-text#subtitulo-produtos-computacao",
+      "flex-layout.row#row-computacao",
+      "rich-text#subtitulo-produtos-bd",
+      "flex-layout.row#row-banco-dados",
+      "rich-text#subtitulo-produtos-analises",
+      "flex-layout.row#row-analises"
+    ]
   }
 }

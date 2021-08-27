@@ -1,0 +1,58 @@
+{
+  //Produtos Computacao
+    "slider-layout#slider-produtos-computacao": {
+        "props": {
+            "itemsPerPage": {
+              "desktop": 3,
+              "tablet": 1,
+              "phone": 1
+            },
+            "infinite": true,
+            "showNavigationArrows": "desktopOnly",
+            "blockClass": "carousel-produto"
+          },
+          "children": [
+            "flex-layout.row#row-card-produto-c1",
+            "flex-layout.row#row-card-produto-c2",
+            "flex-layout.row#row-card-produto-c3"
+          ]
+    },
+
+    //Produtos Banco de Dados
+    "slider-layout#slider-produtos-bd": {
+      "props": {
+        "itemsPerPage": {
+          "desktop": 3,
+          "tablet": 1,
+          "phone": 1
+        },
+        "infinite": true,
+        "showNavigationArrows": "desktopOnly",
+        "blockClass": "carousel-produto"
+      },
+      "children": [
+        "flex-layout.row#row-card-produto-bd1",
+        "flex-layout.row#row-card-produto-bd2",
+        "flex-layout.row#row-card-produto-bd3"
+      ]
+    },
+
+    //Produtos Analise
+    "slider-layout#slider-produtos-analises": {
+      "props": {
+        "itemsPerPage": {
+          "desktop": 3,
+          "tablet": 1,
+          "phone": 1
+        },
+        "infinite": true,
+        "showNavigationArrows": "desktopOnly",
+        "blockClass": "carousel-produto"
+      },
+      "children": [
+        "flex-layout.row#row-card-produto-a1",
+        "flex-layout.row#row-card-produto-a2",
+        "flex-layout.row#row-card-produto-a3"
+      ]
+    }
+}
