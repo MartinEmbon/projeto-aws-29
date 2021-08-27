@@ -2,7 +2,7 @@
     //Titulo
     "rich-text#rich-solucoes":{
         "props":{
-          "text": "Soluções para",
+          "text": "Confira as soluções",
           "blockClass": "rich-solucoes"
         }   
       } ,

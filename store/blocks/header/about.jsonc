@@ -1,0 +1,22 @@
+{
+  "store.custom#about": {
+    "blocks": [
+      "info-card"]
+  },
+
+"info-card": {
+  "props": {
+    "isFullModeStyle": false,
+    "textPosition": "right",
+    "imageUrl": "assets/awsabout.jpg",
+    "headline": "About US.",
+    "subhead": "All you need to know!",
+    "callToActionMode": "button",
+    "callToActionText": "Volver",
+    "callToActionUrl": "/",
+    "textAlignment": "center",
+    "blockClass":"infoAbout"
+    
+  }
+}
+}

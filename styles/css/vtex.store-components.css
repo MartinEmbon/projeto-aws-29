@@ -1,4 +1,15 @@
 /*
+  Container page background
+*/
+
+.container {
+    /* background-color: #232F3E;   */
+    background-color: #eee;  
+    
+
+}
+
+/*
     Header
 */
 .searchBarContainer{
@@ -27,6 +38,7 @@
 .imageElement--imagem-card{
     max-width: 60px;
 }
+
 
 .infoCardHeadline--card-produto{
     margin-top: 0;
@@ -60,3 +72,14 @@
     align-items: center;
 }
 
+.infoCardContainer--infoAbout{
+    margin-top: 1rem;
+    background-color: #232f3e;
+    
+}
+
+.container{
+    
+    margin: 0;
+    padding: 0;
+}

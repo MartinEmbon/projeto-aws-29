@@ -49,7 +49,7 @@
             "blockClass": "item-menu",
             "itemProps": {
               "type": "internal",
-              "href": "#",
+              "href": "/about",
               "noFollow": false,
               "tagTitle": "menu-sobre",
               "text": "Sobre"

@@ -8,6 +8,7 @@
           },
           "infinite": true,
           "showNavigationArrows": "desktopOnly",
+          "fullWidth":"true",
           "blockClass": "carousel-principal"
         },
         "children": [
@@ -19,19 +20,23 @@
       //Imagens
       "image#promocao-1": {
         "props": {
-          "src": "https://source.unsplash.com/random/800x301",
+          "src": "assets/homeslide1.png",
+          "maxWidth": "100%",
+
           "blockClass": "imagem_slider-layout"      
         }
       },
       "image#promocao-2": {
         "props": {
-            "src": "https://source.unsplash.com/random/800x300",
+            "src": "assets/homeslide2.png",
+            "maxWidth": "100%",
           "blockClass": "imagem_slider-layout"
         }
       },
       "image#promocao-3": {
         "props": {
-            "src": "https://source.unsplash.com/random/800x302",
+            "src": "assets/homeslide2.png",
+            "maxWidth": "100%",
           "blockClass": "imagem_slider-layout"
         }
       }      

@@ -3,15 +3,18 @@
     "blocks": [
       
       "flex-layout.row#row-slider-principal",
-      "leadInput",
-      "rich-text#rich-solucoes",
-      "flex-layout.row#row-produtos"
+      
+      "rich-text#rich-solucoes",    
+      "flex-layout.row#row-produtos",
+      "leadInput"
+      
       
     ]
   },
   "flex-layout.row#row-slider-principal": {
     "props": {
       "blockClass": "row-slider-principal"
+      
     },
     "children": [
       "slider-layout#slider-itens-promocao"
@@ -25,7 +28,7 @@
     "children":[      
       "rich-text#subtitulo-produtos-computacao",
       "flex-layout.row#row-computacao",
-      "rich-text#subtitulo-produtos-bd",
+      "rich-text#subtitulo-produtos-bd",      
       "flex-layout.row#row-banco-dados",
       "rich-text#subtitulo-produtos-analises",
       "flex-layout.row#row-analises"
