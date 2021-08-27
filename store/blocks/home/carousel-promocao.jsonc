@@ -1,0 +1,39 @@
+{
+    "slider-layout#slider-itens-promocao": {
+        "props": {
+          "itemsPerPage": {
+            "desktop": 1,
+            "tablet": 1,
+            "phone": 1
+          },
+          "infinite": true,
+          "showNavigationArrows": "desktopOnly",
+          "blockClass": "carousel-principal"
+        },
+        "children": [
+          "image#promocao-1",
+          "image#promocao-2",
+          "image#promocao-3"
+        ]
+      },
+      //Imagens
+      "image#promocao-1": {
+        "props": {
+          "src": "https://source.unsplash.com/random/800x301",
+          "blockClass": "imagem_slider-layout"      
+        }
+      },
+      "image#promocao-2": {
+        "props": {
+            "src": "https://source.unsplash.com/random/800x300",
+          "blockClass": "imagem_slider-layout"
+        }
+      },
+      "image#promocao-3": {
+        "props": {
+            "src": "https://source.unsplash.com/random/800x302",
+          "blockClass": "imagem_slider-layout"
+        }
+      }      
+}
+//

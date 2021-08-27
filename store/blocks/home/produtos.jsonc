@@ -1,0 +1,27 @@
+{
+    "flex-layout.row#row-computacao": {
+        "props": {
+            "blockClass": "row-banco-computacao"
+        },
+        "children": [            
+            "slider-layout#slider-produtos-computacao"
+        ]
+    },
+    "flex-layout.row#row-banco-dados": {
+        "props": {
+            "blockClass": "row-banco-dados"
+        },
+        "children": [            
+            "slider-layout#slider-produtos-bd"
+        ]
+    },
+    "flex-layout.row#row-analises": {
+        "props": {
+            "blockClass": "row-analises"
+        },
+        "children": [            
+            "slider-layout#slider-produtos-analises"
+        ]
+    }
+}
+//

@@ -1,0 +1,29 @@
+{
+    //Titulo
+    "rich-text#rich-solucoes":{
+        "props":{
+          "text": "Soluções para",
+          "blockClass": "rich-solucoes"
+        }   
+      } ,
+
+    //Sub Titulos
+    "rich-text#subtitulo-produtos-computacao":{
+        "props":{
+            "blockClass": "subtitulo-produtos",
+            "text": "## Computação"
+        }
+    },
+    "rich-text#subtitulo-produtos-bd":{
+        "props":{
+            "blockClass": "subtitulo-produtos",
+            "text": "## Banco de Dados"
+        }
+    },
+    "rich-text#subtitulo-produtos-analises":{
+        "props":{
+            "blockClass": "subtitulo-produtos",
+            "text": "## Análises"
+        }
+    }
+}
