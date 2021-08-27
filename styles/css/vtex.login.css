@@ -1,12 +1,13 @@
-.container button{
-    width: 100px;    
-    background-image: linear-gradient(180deg,#f67c1b 0,#e15500)
+.container button {
+  width: 100px;
+  background-image: linear-gradient(180deg, #f67c1b 0, #e15500);
 }
 
-.container button:hover{
-    background-color: #D1640A;
+.container button:hover {
+  background-color: #d1640a;
 }
 
-.label{
-    color: white;
+.label {
+  color: white;
+  padding-left: 0;
 }

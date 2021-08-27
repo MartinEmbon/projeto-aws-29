@@ -1,21 +1,21 @@
 /*
     Home
 */
-.menuContainerNav--menu-principal{
-    background-color: #232F3E;
+.menuContainerNav--menu-principal {
+  background-color: #232f3e;
 }
 
-.menuContainer--menu-principal{    
-    height: 25px;
-    padding: 0 0 20px 20px;
-    justify-content: flex-start;
-    
+.menuContainer--menu-principal {
+  height: 25px;
+  padding: 0 0 20px 20px;
+  justify-content: flex-start;
 }
 
-.menuItem--item-menu .styledLinkContent{
-    color: #ddd;
+.menuItem--item-menu .styledLinkContent {
+  color: #ddd;
+  font-size: 0.95rem;
 }
 
-.styledLinkContainer--item-menu{
-    padding: 0;
+.styledLinkContainer--item-menu {
+  padding: 0;
 }
