@@ -14,17 +14,17 @@ const leadInput = () => {
    const handles = useCssHandles(CSS_HANDLES)    
   
   const handleSubmit = e => {
-    //e.preventDefault();
+    e.preventDefault();
   //  email.value=""
     const data = {      
       email
     };
     axios
-      .post("https://a39p50jbpf.execute-api.sa-east-1.amazonaws.com/prod", data)
+      .post("https://89xudou1d2.execute-api.sa-east-1.amazonaws.com/prod/lead", data)
       .then(res => console.log(res))
       .catch(err => console.log(err));
       
-//      window.location = "/"
+window.location = "/"
   };
 
    
