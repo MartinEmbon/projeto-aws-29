@@ -1,0 +1,64 @@
+{
+  "footer": {
+    "blocks": [
+      "footer-layout.desktop",
+      "footer-layout.mobile"
+    ]
+  },
+  "footer-layout.desktop": {
+    "children": [
+      "flex-layout.row#footer-1-desktop"
+    ]
+  },
+  "flex-layout.row#footer-1-desktop": {
+    "children": [
+      "vtex.menu@2.x:menu#footer",
+      "vtex.menu@2.x:menu#footer-texto",
+      "flex-layout.row#footer-2-desktop"
+    ]
+  },
+  "social-networks": {
+    "props": {
+      "socialNetworks": [
+        {
+          "name": "Facebook",
+          "url": "#"
+        }
+      ]
+    }
+  },
+  "flex-layout.row#footer-2-desktop": {
+    "children": [
+      "login",
+      "social-networks"
+    ],
+    "props": {
+      "fullWidth": true,
+      "colSizing": "auto",
+      "horizontalAlign":"center",
+      "verticalAlign": "center",
+      "preventHorizontalStretch": true,
+      "preventVerticalStretch": true,
+      "blockClass": "menu-row"
+    }
+  },
+  "footer-layout.mobile": {
+    "children": [
+      "flex-layout.row#1-footer-mobile"
+    ]
+  },
+  "flex-layout.row#1-footer-mobile": {
+    "children": [
+      "vtex.menu@2.x:menu#footer",
+      "vtex.menu@2.x:menu#footer-texto",
+      "login",
+      "social-networks"
+    ],
+    "props": {
+      "fullWidth": true,
+      "colSizing": "auto",
+      "horizontalAlign":"center",
+      "verticalAlign": "center"
+    }
+  }
+}

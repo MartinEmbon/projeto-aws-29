@@ -1,0 +1,8 @@
+.footerLayout{
+    background-color: #232F3E;
+}
+.socialNetworksContainer{
+    flex-direction:column;
+    padding-top: 8px;
+    margin-left: 300px;
+}

@@ -1,0 +1,8 @@
+
+.flexRowContent{
+    height: auto;
+}
+.flexRowContent--menu-row{
+    flex-direction: column;
+    padding-top: 20px;
+}

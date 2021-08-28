@@ -1,0 +1,12 @@
+.container{
+    background-color: #E76D0C;
+    font-family: 'AmazonEmber';
+    flex-direction:column;
+    border: 2px solid #ddd;
+    border-radius: 8px;
+    justify-content: center;
+    margin-left: 300px;
+}
+.label{
+    color: #ddd;
+}
