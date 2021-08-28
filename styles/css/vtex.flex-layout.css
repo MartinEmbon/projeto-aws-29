@@ -17,3 +17,23 @@
     justify-content: center;
 }
 
+
+
+.flexRowContent--row-produtos{
+    flex-direction: column;
+    background-color: #f2f4f4;
+}
+
+.flexRow--row-card-produto{    
+    border-top: 5px solid #232F3E;
+}
+
+.flexRowContent--row-card-produto{
+    flex-direction: column;
+}
+
+.flexRowContent--row-card-produto .stretchChildrenWidth{
+    padding-top: 5px;
+    background-color: #FFFFFF;
+}
+
