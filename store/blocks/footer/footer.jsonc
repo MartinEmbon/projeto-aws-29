@@ -1,26 +1,64 @@
 {
   "footer": {
-    "blocks": ["footer-layout.desktop", "footer-layout.mobile"]
-  },
-  "footer-layout.desktop": { 
-    "children": [
-      "flex-layout.row#footer"
+    "blocks": [
+      "footer-layout.desktop",
+      "footer-layout.mobile"
     ]
   },
-  "footer-layout.mobile": { 
+  "footer-layout.desktop": {
     "children": [
-      "flex-layout.row#footer"
+      "flex-layout.row#footer-1-desktop"
     ]
   },
-  "flex-layout.row#footer": { 
+  "flex-layout.row#footer-1-desktop": {
     "children": [
-      "image"
+      "vtex.menu@2.x:menu#footer",
+      "vtex.menu@2.x:menu#footer-texto",
+      "flex-layout.row#footer-2-desktop"
     ]
   },
-  "image": {
+  "social-networks": {
     "props": {
-      "width": 100,
-      "src": "https://vtex.com/wp-content/uploads/2020/04/VTEX-Brand.svg"
+      "socialNetworks": [
+        {
+          "name": "Facebook",
+          "url": "#"
+        }
+      ]
+    }
+  },
+  "flex-layout.row#footer-2-desktop": {
+    "props": {
+      "fullWidth": true,
+      "colSizing": "auto",
+      "horizontalAlign":"center",
+      "verticalAlign": "center",
+      "preventHorizontalStretch": true,
+      "preventVerticalStretch": true,
+      "blockClass": "menu-footer"
+    },
+    "children": [
+      "login",
+      "social-networks"
+    ]
+  },
+  "footer-layout.mobile": {
+    "children": [
+      "flex-layout.row#1-footer-mobile"
+    ]
+  },
+  "flex-layout.row#1-footer-mobile": {
+    "children": [
+      "vtex.menu@2.x:menu#footer",
+      "vtex.menu@2.x:menu#footer-texto",
+      "login",
+      "social-networks"
+    ],
+    "props": {
+      "fullWidth": true,
+      "colSizing": "auto",
+      "horizontalAlign": "center",
+      "verticalAlign": "center"
     }
   }
 }

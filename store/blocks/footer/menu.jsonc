@@ -1,0 +1,77 @@
+{
+    "vtex.menu@2.x:menu#footer": {
+        "props": {
+            "orientation": "vertical",
+            "blockClass": "footerTexto2"
+        },
+        "children": [
+            "menu-item#produtos",
+            "menu-item#solucoes",
+            "menu-item#sobre"
+        ]
+    },
+    "menu-item#produtos": {
+        "props": {
+            "id": "menu-item-produtos",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "#",
+                "noFollow": false,
+                "tagTitle": "Produtos",
+                "text": "Produtos"
+            }
+        }
+    },
+    "menu-item#solucoes": {
+        "props": {
+            "id": "menu-item-solucoes",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "#",
+                "noFollow": false,
+                "tagTitle": "Soluções",
+                "text": "Soluções"
+            }
+        }
+    },
+    "menu-item#sobre": {
+        "props": {
+            "id": "menu-item-sobre",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "#",
+                "noFollow": false,
+                "tagTitle": "Sobre",
+                "text": "Sobre"
+            }
+        }
+    },
+    "vtex.menu@2.x:menu#footer-texto": {
+        "props": {
+            "orientation": "vertical"
+        },
+        "children": [
+            "menu-item#texto"
+        ]
+    },
+    "menu-item#texto": {
+        "children": [
+            "rich-text#footer-texto"
+        ]
+    },
+    "rich-text#footer-texto": {
+        "props": {
+            "text": "A Amazon é uma empresa empregadora orientada pelos fundamentos de igualdade de oportunidades e ações afirmativas, que não faz distinção entre minorias, mulheres, portadores de deficiência, veteranos, identidade de gênero, orientação sexual nem idade.",
+            "blockClass": "footerTexto"
+        }
+    }
+}
