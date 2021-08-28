@@ -15,23 +15,17 @@
 .flexRow--row-slider-principal{
     display: flex;
     justify-content: center;
-    
 }
+
 
 
 .flexRowContent--row-produtos{
     flex-direction: column;
     background-color: #f2f4f4;
-        
-    
 }
 
 .flexRow--row-card-produto{    
     border-top: 5px solid #232F3E;
-    width: 300px;
-    height: fit-content;
-    box-sizing: border-box;
-
 }
 
 .flexRowContent--row-card-produto{

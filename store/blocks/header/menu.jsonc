@@ -6,8 +6,7 @@
         "children": [
             "menu-item#produtos",
             "menu-item#solucoes",
-            "menu-item#sobre",
-            "menu-item#leads"
+            "menu-item#sobre"
         ]
     },
 
@@ -50,25 +49,10 @@
             "blockClass": "item-menu",
             "itemProps": {
               "type": "internal",
-              "href": "/about",
+              "href": "#",
               "noFollow": false,
               "tagTitle": "menu-sobre",
               "text": "Sobre"
-            }
-          }
-    },
-    "menu-item#leads": {
-        "props": {
-            "id": "menu-item-leads",
-            "type": "custom",
-            "highlight": false,
-            "blockClass": "item-menu",
-            "itemProps": {
-              "type": "internal",
-              "href": "/leads",
-              "noFollow": false,
-              "tagTitle": "menu-leads",
-              "text": "Leads"
             }
           }
     }

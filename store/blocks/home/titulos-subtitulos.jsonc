@@ -1,29 +1,29 @@
 {
     //Titulo
-    "rich-text#rich-solucoes":{
+    "rich-text#titulo-home":{
         "props":{
-          "text": "Confira as soluções",
+          "text": "Soluções para",
           "blockClass": "rich-solucoes"
         }   
       } ,
 
     //Sub Titulos
-    "rich-text#subtitulo-produtos-computacao":{
+    "rich-text#subtitulo-grupo-1":{
         "props":{
             "blockClass": "subtitulo-produtos",
-            "text": "## Computação"
+            "text": "## Titulo Grupo 1"
         }
     },
-    "rich-text#subtitulo-produtos-bd":{
+    "rich-text#subtitulo-grupo-2":{
         "props":{
             "blockClass": "subtitulo-produtos",
-            "text": "## Banco de Dados"
+            "text": "## Titulo Grupo 2"
         }
     },
-    "rich-text#subtitulo-produtos-analises":{
+    "rich-text#subtitulo-grupo-3":{
         "props":{
             "blockClass": "subtitulo-produtos",
-            "text": "## Análises"
+            "text": "## Titulo Grupo 3"
         }
     }
 }

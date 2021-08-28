@@ -2,18 +2,17 @@
     Home
 */
 .sliderTrackContainer--carousel-principal{
-    width: 100%;
-    }
+    width: 800px;
+}
 
 .sliderLayoutContainer--carousel-produto{
     justify-content: center;
 }
 
 .sliderTrackContainer--carousel-produto{
-    width: 100%;
+    width: 80%;
 }
 
 .slideChildrenContainer--carousel-produto{
-    
-    width: 100%;
+    padding: 0 10px;
 }

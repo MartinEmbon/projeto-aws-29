@@ -1,0 +1,128 @@
+{
+   //
+   
+    "info-card#card-produto-computacao-1":{
+        "props":{
+            "blockClass": "card-produto",            
+            "textPosition": "center",
+            "isFullModeStyle": true,
+            "headline": "Titulo 1",
+            "subhead": "Texto Produto 1",            
+            "callToActionMode": "button",
+            "callToActionText": "Saiba Mais",
+            "callToActionUrl": "/",
+            "textAlignment": "center"
+        }
+    },
+
+    "info-card#card-produto-computacao-2":{
+        "props":{
+            "blockClass": "card-produto",            
+            "textPosition": "center",
+            "isFullModeStyle": true,
+            "headline": "Titulo 2",
+            "subhead": "Texto Produto 2",            
+            "callToActionMode": "button",
+            "callToActionText": "Saiba Mais",
+            "callToActionUrl": "/",
+            "textAlignment": "center"
+        }
+    },
+
+    "info-card#card-produto-computacao-3":{
+        "props":{
+            "blockClass": "card-produto",            
+            "textPosition": "center",
+            "isFullModeStyle": true,
+            "headline": "Titulo 3",
+            "subhead": "Texto Produto 3",            
+            "callToActionMode": "button",
+            "callToActionText": "Saiba Mais",
+            "callToActionUrl": "/",
+            "textAlignment": "center"
+        }
+    },
+
+    "info-card#card-produto-banco-dados-1":{
+        "props":{
+            "blockClass": "card-produto",            
+            "textPosition": "center",
+            "isFullModeStyle": true,
+            "headline": "Titulo 4",
+            "subhead": "Texto Produto 4",            
+            "callToActionMode": "button",
+            "callToActionText": "Saiba Mais",
+            "callToActionUrl": "/",
+            "textAlignment": "center"
+        }
+    },
+    "info-card#card-produto-banco-dados-2":{
+        "props":{
+            "blockClass": "card-produto",            
+            "textPosition": "center",
+            "isFullModeStyle": true,
+            "headline": "Titulo 5",
+            "subhead": "Texto Produto 5",            
+            "callToActionMode": "button",
+            "callToActionText": "Saiba Mais",
+            "callToActionUrl": "/",
+            "textAlignment": "center"
+        }
+    },
+    "info-card#card-produto-banco-dados-3":{
+        "props":{
+            "blockClass": "card-produto",            
+            "textPosition": "center",
+            "isFullModeStyle": true,
+            "headline": "Titulo 6",
+            "subhead": "Texto Produto 6",            
+            "callToActionMode": "button",
+            "callToActionText": "Saiba Mais",
+            "callToActionUrl": "/",
+            "textAlignment": "center"
+        }
+    },
+
+    "info-card#card-produto-analise-1":{
+        "props":{
+            "blockClass": "card-produto",            
+            "textPosition": "center",
+            "isFullModeStyle": true,
+            "headline": "Titulo 7",
+            "subhead": "Texto Produto 7",            
+            "callToActionMode": "button",
+            "callToActionText": "Saiba Mais",
+            "callToActionUrl": "/",
+            "textAlignment": "center"
+        }
+    },
+
+    "info-card#card-produto-analise-2":{
+        "props":{
+            "blockClass": "card-produto",            
+            "textPosition": "center",
+            "isFullModeStyle": true,
+            "headline": "Titulo 8",
+            "subhead": "Texto Produto 8",            
+            "callToActionMode": "button",
+            "callToActionText": "Saiba Mais",
+            "callToActionUrl": "/",
+            "textAlignment": "center"
+        }
+    },
+
+    "info-card#card-produto-analise-3":{
+        "props":{
+            "blockClass": "card-produto",            
+            "textPosition": "center",
+            "isFullModeStyle": true,
+            "headline": "Titulo 9",
+            "subhead": "Texto Produto 9",            
+            "callToActionMode": "button",
+            "callToActionText": "Saiba Mais",
+            "callToActionUrl": "/",
+            "textAlignment": "center"
+        }
+    }
+
+}
