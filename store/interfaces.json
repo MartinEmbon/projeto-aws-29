@@ -1,5 +1,8 @@
 {    
     "leadInput": {
         "component":"LeadInput"
+    },
+    "showLead": {
+        "component":"ShowLead"
     }
 }

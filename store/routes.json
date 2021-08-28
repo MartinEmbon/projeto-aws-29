@@ -1,6 +1,9 @@
 {
     "store.custom#about": {
       "path": "/about"
-    }    
+    },
+    "store.custom#leads": {
+      "path": "/leads"
+    }
 
   }
