@@ -1,16 +1,21 @@
 /*
     Home
 */
-.container--rich-solucoes{
-    justify-content: center;
+.container--rich-solucoes {
+  justify-content: center;
 }
 
-.wrapper--rich-solucoes .paragraph{
-    font-size: 60px;
-    color: #232f3e;
+.wrapper--rich-solucoes .paragraph {
+  font-size: 60px;
+  color: #232f3e;
 }
 
-.container--subtitulo-produtos{
-    padding-left: 10px;
+.container--subtitulo-produtos {
+  padding-left: 10px;
 }
 
+@media (max-width: 394px) {
+  .wrapper--rich-solucoes .paragraph {
+    font-size: 2.75rem;
+  }
+}
