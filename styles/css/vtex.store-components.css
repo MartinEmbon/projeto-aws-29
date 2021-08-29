@@ -1,15 +1,4 @@
 /*
-  Container page background
-*/
-
-.container {
-    /* background-color: #232F3E;   */
-    background-color: #eee;  
-    
-
-}
-
-/*
     Header
 */
 .searchBarContainer{
@@ -19,7 +8,7 @@
 
 .searchBarIcon{
     padding: 11px 5px;   
-    background-color: #3d3834;
+    background-color: #E76D0C;
     color: white;
     position: absolute;
     top: 0;
@@ -38,7 +27,6 @@
 .imageElement--imagem-card{
     max-width: 60px;
 }
-
 
 .infoCardHeadline--card-produto{
     margin-top: 0;
@@ -72,14 +60,3 @@
     align-items: center;
 }
 
-.infoCardContainer--infoAbout{
-    margin-top: 1rem;
-    background-color: #232f3e;
-    
-}
-
-.container{
-    
-    margin: 0;
-    padding: 0;
-}

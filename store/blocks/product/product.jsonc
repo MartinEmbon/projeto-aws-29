@@ -11,8 +11,8 @@
     "children": [
       "flex-layout.col#left",
       "flex-layout.col#right",
-      "product-questions-and-answers"
-      //"product-assembly-options"
+      "product-questions-and-answers",
+      "product-assembly-options"
     ]
   },
   "flex-layout.col#left": {
@@ -27,12 +27,19 @@
     },
     "children": [
       "product-description",
-      "product-identifier.product"
+      "product-identifier.product",
+      "buy-button#product"
     ]
-  }
- // "product-assembly-options": {
-   // "children": [
-     // "assembly-option-input-values"
-    //]
-  //}
+  },
+  "product-assembly-options": {
+    "children": [
+      "assembly-option-input-values"
+    ]
+  },
+  "buy-button#product": {
+   "props": {
+     "isOneClickBuy": true,
+     "showTooltipOnSkuNotSelected": false
+   }
+ }
 }

@@ -1,20 +1,14 @@
 {
   "store.home": {
     "blocks": [
-      
       "flex-layout.row#row-slider-principal",
-      
-      "rich-text#rich-solucoes",    
-      "flex-layout.row#row-produtos",
-      "leadInput"
-      
-      
+      "rich-text#titulo-home",
+      "flex-layout.row#row-produtos"      
     ]
   },
   "flex-layout.row#row-slider-principal": {
     "props": {
       "blockClass": "row-slider-principal"
-      
     },
     "children": [
       "slider-layout#slider-itens-promocao"
@@ -26,12 +20,12 @@
       "blockClass": "row-produtos"
     },
     "children":[      
-      "rich-text#subtitulo-produtos-computacao",
-      "flex-layout.row#row-computacao",
-      "rich-text#subtitulo-produtos-bd",      
-      "flex-layout.row#row-banco-dados",
-      "rich-text#subtitulo-produtos-analises",
-      "flex-layout.row#row-analises"
+      "rich-text#subtitulo-grupo-1",
+      "flex-layout.row#row-grupo-1",
+      "rich-text#subtitulo-grupo-2",
+      "flex-layout.row#row-grupo-2",
+      "rich-text#subtitulo-grupo-3",
+      "flex-layout.row#row-grupo-3"
     ]
   }
 }
