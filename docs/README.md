@@ -21,6 +21,15 @@ contacting customers trying to make Active or UPSELL sales.
 - VTEX IO platform
 - Boilerplate theme to create stores in the VTEX IO platform
 
+# Figma 
+
+- <a href="https://www.figma.com/file/eTe5EMGPzcE88LraVsRqZE?embed_host=notion&kind=&node-id=0%3A1&viewer=1"> Home - Desktop </a>
+- <a href="https://www.figma.com/file/eTe5EMGPzcE88LraVsRqZE?embed_host=notion&kind=&node-id=1%3A127&viewer=1"> Home - Mobile </a>
+- <a href="https://www.figma.com/file/4N3q3u4jSzYhYzNomCta0i?embed_host=notion&kind=&node-id=0%3A1&viewer=1"> Soluções - Desktop </a>
+- <a href="https://www.figma.com/file/4N3q3u4jSzYhYzNomCta0i?embed_host=notion&kind=&node-id=4%3A2&viewer=1"> Soluções - Mobile </a>
+- <a href="https://www.figma.com/file/XTwBvrVrta4C0vHe1YgCJg?embed_host=notion&kind=&node-id=0%3A1&viewer=1"> Sobre - Desktop </a>
+- <a href="https://www.figma.com/file/XTwBvrVrta4C0vHe1YgCJg?embed_host=notion&kind=&node-id=4%3A135&viewer=1"> Sobre - Mobile </a>
+
 
 # Minimum Boilerplate Theme
 
@@ -84,3 +93,5 @@ Then time has come to upload all the changes you made in your local files to the
 If the process runs without any errors, the following message will be displayed: `App linked successfully`. Then, run the `vtex browse` command to open a browser window having your linked store in it.
 
 This will enable you to see the applied changes in real time, through the account and workspace in which you are working.
+
+
