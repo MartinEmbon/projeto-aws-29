@@ -1,4 +1,4 @@
-# Final Challenge
+ # Final Challenge
 
 Develop a project using the API, and the groups will be divided into 3
 presentations (on different dates for different stalls)!
@@ -14,13 +14,13 @@ contacting customers trying to make Active or UPSELL sales.
 
 # Team 29 - Contributors
 
-<img src= "https://media-exp1.licdn.com/dms/image/C4E03AQFITUDXWoikSg/profile-displayphoto-shrink_200_200/0/1543591748346?e=1635379200&v=beta&t=YFEuJeFL0I42l82nls0noH59Tq6Zs1wRMd2T2lmwdOI" width="60"> <img src= "https://avatars.githubusercontent.com/u/65916297?v=4" width="60"> <img src= "https://media-exp1.licdn.com/dms/image/C4E03AQFsvArG2JywsQ/profile-displayphoto-shrink_200_200/0/1622832187835?e=1635379200&v=beta&t=TtncFtWIP2QCJxDdTucym8c25XD4-MSBvWOIxs7tAg0" width="60"> <img src= "https://avatars.githubusercontent.com/u/71203708?v=4" width="60"><img src= "https://avatars.githubusercontent.com/u/77815749?v=4" width="60"> <img src= "https://avatars.githubusercontent.com/u/87606686?v=4" width="60"> <img src= "https://avatars.githubusercontent.com/u/14866697?v=4" width="60"> <img src="https://avatars.githubusercontent.com/u/62761261?v=4" width="60"> <img src="https://avatars.githubusercontent.com/u/84990084?v=4" width="60">
+<img src= "https://media-exp1.licdn.com/dms/image/C4E03AQFITUDXWoikSg/profile-displayphoto-shrink_200_200/0/1543591748346?e=1635379200&v=beta&t=YFEuJeFL0I42l82nls0noH59Tq6Zs1wRMd2T2lmwdOI" width="60"> <img src= "https://avatars.githubusercontent.com/u/65916297?v=4" width="60"> <img src= "https://user-images.githubusercontent.com/84990084/131422281-c1b4a745-60e8-4eda-b6fb-83d224b086d2.png" width="60"> <img src= "https://media-exp1.licdn.com/dms/image/C4E03AQFsvArG2JywsQ/profile-displayphoto-shrink_200_200/0/1622832187835?e=1635379200&v=beta&t=TtncFtWIP2QCJxDdTucym8c25XD4-MSBvWOIxs7tAg0" width="60"> <img src= "https://avatars.githubusercontent.com/u/71203708?v=4" width="60"><img src= "https://avatars.githubusercontent.com/u/77815749?v=4" width="60"> <img src= "https://avatars.githubusercontent.com/u/87606686?v=4" width="60"> <img src= "https://avatars.githubusercontent.com/u/14866697?v=4" width="60"> <img src="https://avatars.githubusercontent.com/u/62761261?v=4" width="60"> <img src="https://avatars.githubusercontent.com/u/84990084?v=4" width="60"> 
 
 # Requirements
 
 - VTEX IO platform
 - Boilerplate theme to create stores in the VTEX IO platform
-- 
+
 
 # Minimum Boilerplate Theme
 
